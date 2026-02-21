@@ -2,8 +2,8 @@
 <h3 align="center">BSc Information Technology Graduate | Data Science | AI | Machine Learning | Full-Stack Developer</h3>  
   
 <p align="center">  
-Passionate about building intelligent, scalable, and data-driven systems that solve real-world problems.   
-I specialize in Data Science, Machine Learning, AI Applications, and Full-Stack Development.  
+Passionate about building intelligent, scalable, and data driven systems that solve real-world problems.   
+I specialise in Data Science, Machine Learning, AI Applications, and Full-Stack Development.  
 </p>  
   
 ---  
@@ -37,23 +37,7 @@ I specialize in Data Science, Machine Learning, AI Applications, and Full-Stack 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50"/>  
   
 </p>  
-  
----  
-  
-## 📈 Certifications  
-  
-- 🏅 Microsoft Certified: Azure Data Scientist Associate    
-- 🏅 Microsoft Certified: Azure Data Fundamentals    
-  
----  
-  
-## 📫 Connect With Me  
-  
-- 💼 LinkedIn:www.linkedin.com/in/sbahle-kumalo-b4b498267
-- 🔗 Portfolio Website: https://sbahle-kumalo-emerging-technologies.base44.app/
-- 📧 Email: S.kumalo0115@gmail.com  
-- 🌍 Portfolio Projects: Render & Railway Deployments  
-  
+
 ---  
   
 ⭐ *“Building intelligent systems that turn data into decisions.”*  
