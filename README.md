@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm S'bahle Kumalo</h1>  
+<h1 align="center">👋 I'm S'bahle (Theo) Kumalo</h1>  
 <h3 align="center">BSc Information Technology Graduate | Data Science | AI | Machine Learning | Full-Stack Developer</h3>  
   
 <p align="center">  
@@ -49,7 +49,8 @@ I specialize in Data Science, Machine Learning, AI Applications, and Full-Stack 
   
 ## 📫 Connect With Me  
   
-- 💼 LinkedIn: (Add your LinkedIn link here)  
+- 💼 LinkedIn:www.linkedin.com/in/sbahle-kumalo-b4b498267
+- 🔗 Portfolio Website: https://sbahle-kumalo-emerging-technologies.base44.app/
 - 📧 Email: S.kumalo0115@gmail.com  
 - 🌍 Portfolio Projects: Render & Railway Deployments  
   
