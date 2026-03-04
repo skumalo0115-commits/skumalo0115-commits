@@ -24,8 +24,6 @@ I specialise in Data Science, Machine Learning, AI Applications, and Full-Stack 
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">  
-
-<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
@@ -44,8 +42,6 @@ I specialise in Data Science, Machine Learning, AI Applications, and Full-Stack 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
-</p>
-
 </p>  
 
 ---
