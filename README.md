@@ -52,7 +52,7 @@ I specialise in Data Science, Machine Learning, AI Applications, and Full-Stack 
 
 ## 📈 GitHub Contributions  
 
-### 🔥 620 Contributions in the Last Year  
+### 🔥 682 Contributions in the Last Year  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=skumalo0115-commits&theme=github-dark" />
