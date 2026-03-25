@@ -60,8 +60,8 @@ I specialise in Data Science, Machine Learning, AI Applications, and Full-Stack 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Desktop"/>
 <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL Workbench"/>
-<img src="https://cdn.simpleicons.org/webots/0083C3" height="40" alt="Webots"/>
-<img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="Codex"/>
+<img src="https://img.shields.io/badge/Webots-0083C3?style=for-the-badge&logo=webots&logoColor=white" height="28" alt="Webots"/>
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="Codex"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker Desktop"/>
 </p>
 
