@@ -49,6 +49,24 @@ I specialise in Data Science, Machine Learning, AI Applications, and Full-Stack 
 
 ---
 
+## 💻 Computer Packages & Developer Tools  
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="40" alt="NetBeans"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter Notebook"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Desktop"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL Workbench"/>
+<img src="https://cdn.simpleicons.org/webots/0083C3" height="40" alt="Webots"/>
+<img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="Codex"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker Desktop"/>
+</p>
+
+---
+
 ## ✅ Recent Completed Projects (Latest)  
 
 - **ClimateFood-Intelligence** *(Updated Mar 14, 2026)*  
