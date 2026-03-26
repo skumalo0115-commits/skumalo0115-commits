@@ -9,6 +9,10 @@ I specialise in Data Science, Machine Learning, AI Applications, and Full-Stack 
 
 ---
 
+⭐ *“Building intelligent systems that turn data into decisions.”*    
+
+---
+
 ## 🚀 About Me  
 
 - 🎓 BSc in Information Technology (Emerging Technologies)  
@@ -79,10 +83,6 @@ I specialise in Data Science, Machine Learning, AI Applications, and Full-Stack 
   Student-accommodation platform built with **HTML/CSS/JavaScript + Firebase Auth/Firestore + Railway/Netlify**.  
 - **SmartRecs-AI-Movies** *(Updated Feb 24, 2026)*  
   Full-stack movie recommendation app using **Python + Flask + SQLite + scikit-learn**.  
-
----
-
-⭐ *“Building intelligent systems that turn data into decisions.”*    
 
 ---
 
