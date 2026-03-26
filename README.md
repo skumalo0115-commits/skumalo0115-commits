@@ -1,7 +1,6 @@
 <h1 align="center">👋 I'm S'bahle (Theo) Kumalo</h1>  
 <h2 align="center">💻 Future-Focused IT Professional</h2> 
-<h2 align="center">🎓 BSc Information Technology Graduate</h2>  
-<h3 align="center">Data Science | AI | Machine Learning | Full-Stack Developer</h3>  
+<h3 align="center">🎓 BSc Information Technology | Graduate Data Science | AI | Machine Learning | Full-Stack Developer</h3>  
  
 <p align="center">  
 Passionate about building intelligent, scalable, and data driven systems that solve real-world problems.  
