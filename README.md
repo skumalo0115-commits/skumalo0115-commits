@@ -9,7 +9,7 @@ I specialise in Data Science, Machine Learning, AI Applications, and Full-Stack 
 
 ---
 
-⭐ *“Building intelligent systems that turn data into decisions.”*    
+<p align="center">  ⭐ *“Building intelligent systems that turn data into decisions.”* </p>   
 
 ---
 
