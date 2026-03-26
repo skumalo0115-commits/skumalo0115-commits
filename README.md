@@ -98,5 +98,5 @@ I specialise in Data Science, Machine Learning, AI Applications, and Full-Stack 
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/skumalo0115-commits/skumalo0115-commits/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/skumalo0115-commits/skumalo0115-commits/output/github-contribution-grid-snake.svg" alt="snake animation" style="filter: hue-rotate(160deg) saturate(1.4);"/>
 </p>
