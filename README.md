@@ -99,8 +99,8 @@ I specialise in Data Science, Machine Learning, AI Applications, and Full-Stack 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=raw.githubusercontent.com/skumalo0115-commits/skumalo0115-commits/output/github-contribution-grid-snake-dark.svg&hue=210&sat=170" />
-    <source media="(prefers-color-scheme: light)" srcset="https://images.weserv.nl/?url=raw.githubusercontent.com/skumalo0115-commits/skumalo0115-commits/output/github-contribution-grid-snake.svg&hue=210&sat=170" />
-    <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/skumalo0115-commits/skumalo0115-commits/output/github-contribution-grid-snake.svg&hue=210&sat=170" alt="snake animation"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skumalo0115-commits/skumalo0115-commits/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skumalo0115-commits/skumalo0115-commits/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/skumalo0115-commits/skumalo0115-commits/output/github-contribution-grid-snake.svg" alt="snake animation" style="filter: hue-rotate(170deg) saturate(1.5);"/>
   </picture>
 </p>
