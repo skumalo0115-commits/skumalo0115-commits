@@ -41,8 +41,6 @@ I specialise in Data Science, Machine Learning, AI Applications, and Full-Stack 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
 </p>  
@@ -61,8 +59,6 @@ I specialise in Data Science, Machine Learning, AI Applications, and Full-Stack 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Desktop"/>
 <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL Workbench"/>
-<img src="https://img.shields.io/badge/Webots-0083C3?style=for-the-badge&logo=webots&logoColor=white" height="28" alt="Webots"/>
-<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="Codex"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker Desktop"/>
 </p>
 
@@ -91,7 +87,7 @@ I specialise in Data Science, Machine Learning, AI Applications, and Full-Stack 
 
 ## 📈 GitHub Contributions  
 
-### 🔥 682 Contributions in the Last Year  
+### 🔥 720 Contributions in the Last Year  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=skumalo0115-commits&theme=github-dark" />
