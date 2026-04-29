@@ -1,10 +1,10 @@
 <h1 align="center">👋 I'm S'bahle Kumalo</h1>  
 <h2 align="center">💻 Future-Focused IT Professional</h2> 
-<h3 align="center">🎓 BSc Information Technology Graduate | Data Science | AI | Machine Learning | Full-Stack Developer</h3>  
+<h3 align="center">🎓 BSc Information Technology Graduate | Full-Stack Developer | AI | Machine Learning </h3>  
  
 <p align="center">  
 Passionate about building intelligent, scalable, and data driven systems that solve real-world problems.  
-I specialise in Data Science, Machine Learning, AI Applications, and Full-Stack Development.  
+I specialise in Full-Stack Development, Machine Learning, and AI Applications.  
 </p>  
 
 ---
